@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 Here’s an introduction you can use or adapt for your GitHub Profile README:
 
-👋 Hi, I’m Lu!
 
 🌟 **Frontend Developer**: I have experience as a frontend developer, focusing on creating user-friendly and efficient web applications.
 🚀 **Learning Journey**: I’m currently diving deeper into React to enhance my expertise in modern frontend development.
