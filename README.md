@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 Here’s an introduction you can use or adapt for your GitHub Profile README:
 
-
 🌟 **Frontend Developer**: I have experience as a frontend developer, focusing on creating user-friendly and efficient web applications.
 🚀 **Learning Journey**: I’m currently diving deeper into React to enhance my expertise in modern frontend development.
 ☕ **Exploring Java**: I’m also expanding my skills in Java to strengthen my backend development knowledge and grow toward becoming a full-stack developer.
@@ -29,7 +28,7 @@ Here’s an introduction you can use or adapt for your GitHub Profile README:
 
 Would you like to include any specific achievements, projects, or personal touches?
 
-<-- 
+<!-- 
 ### 📂 Featured Projects
 - **[Project Name](https://github.com/username/project-name)**: Brief description.
 - **[Another Project](https://github.com/username/another-project)**: Brief description.
