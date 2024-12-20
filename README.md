@@ -31,7 +31,8 @@ Here’s an introduction you can use or adapt for your GitHub Profile README:
   
 🌈 **Fun Fac**t: I enjoy problem-solving and appreciate the challenges that programming brings to daily life.  
 
-Would you like to include any specific achievements, projects, or personal touches?  
+Here is my blog :)  
+[ohterworld](https://veronicaotherworld.github.io/)  
 
 <!-- 
 ### 📂 Featured Projects
